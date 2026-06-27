@@ -254,9 +254,6 @@ Upload an MRI `.h5` slice to generate the predicted tumor segmentation.
 - **Krishnapriya A. L.**
 - **Niya Aniyan**
 
-### Guide
-
-**Prof. Janisha A**
 
 ---
 

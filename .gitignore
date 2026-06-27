@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Model weights
+*.pth
+
+# Temporary files
+temp_*
+
+# VS Code
+.vscode/
+
+# Virtual environments
+venv/
+.env
